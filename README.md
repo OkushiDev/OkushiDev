@@ -1,6 +1,6 @@
 ### ⋆⁺₊⋆ Ricardo Alfredo Benavides Saavedra ⋆⁺₊⋆
 ### Ingeniero en Informática | Software Engineer | Full Stack Developer
-📍 Rancagua, Chile
+📍 Santiago, Chile
 
 ---
 
